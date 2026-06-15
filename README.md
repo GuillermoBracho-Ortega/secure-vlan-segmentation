@@ -10,7 +10,7 @@
 ## 🇪🇸 Español
 
 ### Resumen del proyecto
-Diseñé y configuré desde cero la red de un edificio de **45 departamentos** (zona universitaria) sobre equipo **Ruijie Reyee** (1 gateway, 3 switches gestionados, 44 access points). El objetivo central fue de **ciberseguridad**: garantizar que cada inquilino quede **aislado** de los demás, manteniendo a la vez utilizable su propia red interna (TV, impresora, dispositivos IoT).
+Diseñé y configuré desde cero la red de un edificio de **45 departamentos** sobre equipo **Ruijie Reyee** (1 gateway, 3 switches gestionados, 44 access points). El objetivo central fue de **ciberseguridad**: garantizar que cada inquilino quede **aislado** de los demás, manteniendo a la vez utilizable su propia red interna (TV, impresora, dispositivos IoT).
 
 > ⚠️ **Nota:** Todos los datos sensibles (contraseñas, seriales, nombre del cliente, IPs públicas) han sido **anonimizados o sustituidos por valores de ejemplo**. Este repositorio documenta el **diseño y el criterio técnico**, no credenciales reales.
 
@@ -142,7 +142,7 @@ graph TD
 ## 🇬🇧 English
 
 ### Project overview
-I designed and configured, from the ground up, the network for a **45‑unit residential building** (student housing) on **Ruijie Reyee** hardware (1 gateway, 3 managed switches, 44 access points). The core goal was **security**: ensuring every tenant is **isolated** from the others while keeping each tenant's own internal network usable (smart TV, printer, IoT devices).
+I designed and configured, from the ground up, the network for a **45‑unit residential building** on **Ruijie Reyee** hardware (1 gateway, 3 managed switches, 44 access points). The core goal was **security**: ensuring every tenant is **isolated** from the others while keeping each tenant's own internal network usable (smart TV, printer, IoT devices).
 
 > ⚠️ **Note:** All sensitive data (passwords, serial numbers, client name, public IPs) has been **anonymized or replaced with sample values**. This repository documents **design and technical reasoning**, not real credentials.
 
