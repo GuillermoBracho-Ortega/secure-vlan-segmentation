@@ -159,17 +159,5 @@ I designed and configured, from the ground up, the network for a **45‑unit res
 
 ---
 
-### 📂 Repo structure (suggested)
-
-```
-.
-├── README.md                  # Este archivo / This file
-├── docs/
-│   ├── vlan-plan.md           # Tabla de VLAN/subredes (datos de ejemplo)
-│   ├── isolation-model.md     # Diagramas de aislamiento
-│   └── threat-model.md        # Análisis de amenazas
-└── diagrams/
-    └── topology.png           # Diagrama de topología (anonimizado)
-```
 
 > 🔒 *Reminder: never commit real passwords, serial numbers, client names, or public IPs. Use placeholders.*
