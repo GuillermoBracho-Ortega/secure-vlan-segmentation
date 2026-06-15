@@ -159,5 +159,3 @@ I designed and configured, from the ground up, the network for a **45‑unit res
 
 ---
 
-
-> 🔒 *Reminder: never commit real passwords, serial numbers, client names, or public IPs. Use placeholders.*
